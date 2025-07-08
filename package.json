@@ -1,0 +1,17 @@
+{
+  "name": "Docker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Syed-Dev-Sphere/Docker.git",
+  "author": "<syedabdullahali>",
+  "license": "MIT",
+  "scripts": {
+      "start": "node index.js",
+      "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.16.2",
+    "nodemon": "^3.1.10"
+  }
+}
